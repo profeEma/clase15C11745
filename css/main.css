@@ -56,11 +56,11 @@ p {
 }
 
 a:hover, a:focus {
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 a {
-  color: #3c9cfd;
+  color: #66cc33;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -102,7 +102,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .bg-defult {
-  background: #3c9cfd !important;
+  background: #66cc33 !important;
 }
 
 /* ==========================================================================
@@ -201,8 +201,8 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   border-width: 2px;
   cursor: pointer;
   background-color: transparent;
-  border-color: #3c9cfd;
-  color: #3c9cfd;
+  border-color: #66cc33;
+  color: #66cc33;
 }
 
 .btn-border:hover {
@@ -213,11 +213,11 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   cursor: pointer;
   background-color: #fff;
   border: 2px solid #fff;
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 .btn-border-filled:hover {
-  color: #3c9cfd;
+  color: #66cc33;
   background-color: #ffffff;
   box-shadow: 0px 8px 9px 0px rgba(96, 94, 94, 0.17);
 }
@@ -229,7 +229,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .btn-rm {
-  color: #3c9cfd;
+  color: #66cc33;
   padding: 10px 0;
   text-transform: capitalize;
   font-size: 16px;
@@ -249,7 +249,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .btn-trial:hover,
 .btn-trial:active,
 .btn-trial:focus {
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 .btn-apple {
@@ -286,7 +286,7 @@ button:focus {
 .btn-border-fill {
   background: #fff;
   border-color: #fff;
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 .btn-subtitle {
@@ -454,7 +454,7 @@ button:focus {
   height: 100%;
   border-radius: 100%;
   border: 7px solid transparent;
-  border-top-color: #3c9cfd;
+  border-top-color: #66cc33;
 }
 
 #loader-1:before {
@@ -531,11 +531,11 @@ button:focus {
 
 .menu-bg .menu-button:hover {
   cursor: pointer;
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 .menu-bg .logo-menu a {
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 .menu-bg .navbar-nav .nav-link {
@@ -844,7 +844,7 @@ button:focus {
   line-height: 80px;
   text-align: center;
   border: 3px solid #fff;
-  color: #3c9cfd;
+  color: #66cc33;
   border-radius: 50%;
   display: inline-block;
   font-size: 26px;
@@ -1048,7 +1048,7 @@ button:focus {
 
 #features .nav-tabs .nav-item.show .nav-link,
 #features .nav-tabs .nav-link.active {
-  border-bottom: 1px solid #3c9cfd;
+  border-bottom: 1px solid #66cc33;
   color: #191c1e;
 }
 
@@ -1405,7 +1405,7 @@ button:focus {
 }
 
 .testimonial-item .content-inner .author-info h2 a:hover {
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 .owl-pagination {
@@ -1438,7 +1438,7 @@ button:focus {
 }
 
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #3c9cfd;
+  background: #66cc33;
 }
 
 /* ==========================================================================
@@ -1523,7 +1523,7 @@ button:focus {
 .pricing-active .btn-border {
   background: #fff;
   border-color: #fff;
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 /* ==========================================================================
@@ -1623,7 +1623,7 @@ button:focus {
 }
 
 .shot-item .single-content .zoom-icon a {
-  color: #3c9cfd;
+  color: #66cc33;
   background: #fff;
   width: 48px;
   display: inline-block;
@@ -1738,7 +1738,7 @@ button:focus {
   width: 48px;
   line-height: 48px;
   height: 48px;
-  color: #3c9cfd;
+  color: #66cc33;
   font-size: 24px;
   display: inline-block;
   background: #fff;
@@ -1821,7 +1821,7 @@ button:focus {
 .left, .right {
   cursor: pointer;
   font-size: 30px;
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 /* ==========================================================================
@@ -1878,7 +1878,7 @@ button:focus {
 }
 
 #blog .blog-item-text h3 a:hover {
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 #blog .author .name a {
@@ -1888,7 +1888,7 @@ button:focus {
 }
 
 #blog .author .name a:hover {
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 #blog .author .date {
@@ -1913,7 +1913,7 @@ button:focus {
 }
 
 .form-control:focus {
-  border: 1px solid #3c9cfd;
+  border: 1px solid #66cc33;
   outline: none;
   box-shadow: none;
 }
@@ -1933,7 +1933,7 @@ textarea {
 
 .contact-info i {
   font-size: 20px;
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 .contact-info h5 {
@@ -2081,7 +2081,7 @@ textarea {
 
 #subscribe .sub-item-box .icon-box i {
   font-size: 30px;
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 #subscribe .sub-item-box .text-box {
@@ -2247,7 +2247,7 @@ footer .menu li a:hover {
 }
 
 .copyright .nav-inline .nav-link:hover {
-  color: #3c9cfd;
+  color: #66cc33;
 }
 
 /* ==========================================================================
